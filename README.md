@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MariosPjs
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning (javascript, html, and python)
+- 👀 I’m interested in machine learning
+- 🌱 I’m currently learning (python and java,)
 
 
 <!---
